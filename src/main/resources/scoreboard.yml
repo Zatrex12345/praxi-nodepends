@@ -1,0 +1,18 @@
+# TODO: Complete this!
+# %online% - players online
+# %playing% - players in fights
+# %queuing% - players in queue
+# %cooldown% - event coodown
+
+TITLE: "&bPractice"
+
+LOBBY:
+  - "&8$m----------------------"
+  - "&6Online&f: "
+  - "&6In Fights&f: "
+  - "&6In Queues&f: "
+  - "%cooldown%"
+  - "&8$m----------------------"
+
+EVENT_COOLDOWN: "&bEvent Cooldown&f: "
+
