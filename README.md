@@ -15,4 +15,4 @@ I am not held responsible for anything that you do while using this source code,
 # What exactly have I changed?
 Basic praxi would depend on both Zoot core & SpigotX, But in this version of praxi I have removed the dependencies to make this source code more usable and easier to fork.
 
-# Enjoy.
+# Enjoy. (Skidded by Vifez)
