@@ -1,4 +1,4 @@
-PraxiAdd commentMore actions
+# Praxi
 The most configurable, efficient, and extensive practice plugin.
 
 # Dependencies
